@@ -14,7 +14,7 @@ Aufgabengebiet
 * Analyse, Design und Planung einer modernen, innovativen Webanwendung gemeinsam im Kernteam
 * Mitwirkung bei Technologie- und Architekturentscheidungen
 * Eigenständige Umsetzung einzelner Komponenten, sowohl Server- als auch Clientseitig
-* Mitarbeit im Aufbau der Unternehmenseigenen IT-Infrastruktur (Test- und Buildsysteme, etc.)
+* Mitarbeit im Aufbau der unternehmenseigenen IT-Infrastruktur (Test- und Buildsysteme, etc.)
 
 Anforderungen
 -------------

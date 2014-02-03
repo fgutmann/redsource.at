@@ -11,15 +11,15 @@ Als junges, international-ausgerichtetes Startup suchen wir für unser Kern-Entw
 Aufgabengebiet
 --------------
 
-* Analyse, Design und Planung einer modernen, innovativen Webanwendung gemeinsam im kleinen Kernteam.
-* Mitwirkung bei Technolgie- und Architekturentscheidungen.
-* Eigenständige Umsetzung einzelner Applikationsteile sowohl Server- als auch Clientseitig
-* Mitarbeit im Aufbau der Unternehemenseigenen IT-Infrasturuktur (Test- und Buildsysteme, etc.)
+* Analyse, Design und Planung einer modernen, innovativen Webanwendung gemeinsam im kleinen Kernteam
+* Mitwirkung bei Technologie- und Architekturentscheidungen
+* Eigenständige Umsetzung einzelner Komponenten sowohl Server- als auch Clientseitig
+* Mitarbeit im Aufbau der Unternehmenseigenen IT-Infrastruktur (Test- und Buildsysteme, etc.)
 
 Anforderungen
 -------------
 
-* Abgeschlossene technische Ausbildung (Uni, FH, HTL) oder entsprechende Berufsehrfahrung
+* Abgeschlossene technische Ausbildung (Uni, FH, HTL) oder entsprechende Berufserfahrung
 * Berufserfahrung mit objektorientierter Programmierung in mindestens einer statisch typisierten Sprache wie z.B. Java, Scala, C# oder  C++
 * Datenbank Design- und Entwicklung (Postgresql, Oracle, Mysql, oä.)
 * Gutes Verständnis des Web-Stacks (Server, HTTP, HTML, CSS, Javascript)
@@ -30,16 +30,18 @@ Ihre Chance
 -----------
 
 * Zielorientiertes Arbeiten in einem jungen, dynamischen, motiviertem Team
-* Langfristiges Engangement in einem Startup mit gesichertem finanziellen Umfeld
-* Meistern einer umfassenden technichen Herausforderung, die viel Eigeninitiative und Selbständigkeit erfordert
+* Langfristiges Engagement in einem Startup mit gesichertem finanziellen Umfeld
+* Meistern einer umfassenden technischen Herausforderung, die viel Eigeninitiative und Selbständigkeit erfordert
 * Ausgezeichnete Aufstiegschancen gemeinsam mit dem Wachstum des Unternehmens
 
 Gehalt
 ------
 
-Das kollektivvertragliche Mindestgrundgehalt für die offene Position liegt bei 2.696 € brutto pro Monat. Je nach Erfahrung und Qualifikation sind wir zu Überzahlung bereit.
+Das kollektivvertragliche Mindestgehalt für die offene Position liegt bei 2.696 € brutto pro Monat. Je nach Erfahrung und Qualifikation sind wir zu Überzahlung bereit.
 
 Kontakt
 -------
 
 Senden sie Ihre aussagekräftige Bewerbung mit Lebenslauf an [f.gutmann@redsource.at](mailto:f.gutmann@redsource.at).
+
+<p class="last-updated">Zuletzt aktualisiert am 3.2.2014</p>

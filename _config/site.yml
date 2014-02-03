@@ -2,3 +2,5 @@ name: redsource.at
 title: redsource.at
 org: redsource.at
 base_url: ''
+deploy: 
+  host: github_pages 

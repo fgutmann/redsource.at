@@ -2,9 +2,6 @@ name: redsource.at
 title: redsource.at
 org: redsource.at
 base_url: ''
-profiles:
-  production:
-    base_url: 'www.redsource.at'
-    deploy:
-      host: github_pages
-      branch: gh-pages
+deploy:
+  host: github_pages
+  branch: gh-pages

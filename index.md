@@ -11,9 +11,9 @@ Als junges, international-ausgerichtetes Startup suchen wir für unser Kern-Entw
 Aufgabengebiet
 --------------
 
-* Analyse, Design und Planung einer modernen, innovativen Webanwendung gemeinsam im kleinen Kernteam
+* Analyse, Design und Planung einer modernen, innovativen Webanwendung gemeinsam im Kernteam
 * Mitwirkung bei Technologie- und Architekturentscheidungen
-* Eigenständige Umsetzung einzelner Komponenten sowohl Server- als auch Clientseitig
+* Eigenständige Umsetzung einzelner Komponenten, sowohl Server- als auch Clientseitig
 * Mitarbeit im Aufbau der Unternehmenseigenen IT-Infrastruktur (Test- und Buildsysteme, etc.)
 
 Anforderungen
@@ -21,7 +21,7 @@ Anforderungen
 
 * Abgeschlossene technische Ausbildung (Uni, FH, HTL) oder entsprechende Berufserfahrung
 * Berufserfahrung mit objektorientierter Programmierung in mindestens einer statisch typisierten Sprache wie z.B. Java, Scala, C# oder  C++
-* Datenbank Design- und Entwicklung (Postgresql, Oracle, Mysql, oä.)
+* Datenbankdesign und -entwicklung (Postgresql, Oracle, Mysql, oä.)
 * Gutes Verständnis des Web-Stacks (Server, HTTP, HTML, CSS, Javascript)
 * Kenntnisse in HTML, CSS und Javascript
 * Erfahrungen mit Javascript MVC Frameworks (AngularJS, Ember.js, Backbone.js, etc.) sind von Vorteil

@@ -42,6 +42,6 @@ Das kollektivvertragliche Mindestgehalt für die offene Position liegt bei 2.696
 Kontakt
 -------
 
-Senden sie Ihre aussagekräftige Bewerbung mit Lebenslauf an [f.gutmann@redsource.at](mailto:f.gutmann@redsource.at).
+Senden sie Ihre aussagekräftige Bewerbung mit Lebenslauf an [f.gutmann@redsource.at](mailto:f.gutmann@redsource.at). Ansprechperson ist Florian Gutmann.
 
-<p class="last-updated">Zuletzt aktualisiert am 3.2.2014</p>
+<p class="last-updated">Zuletzt aktualisiert am 4.2.2014</p>

@@ -1,10 +1,1 @@
-/* line 1, /home/fgutmann/redsource-at/stylesheets/base.scss */
-h2 {
-  margin: 30px 0 15px;
-}
-
-/* line 4, /home/fgutmann/redsource-at/stylesheets/base.scss */
-.last-updated {
-  margin-top: 35px;
-  font-size: 85%;
-}
+h2{margin:30px 0 15px}.last-updated{margin-top:35px;font-size:85%}

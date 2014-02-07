@@ -1,5 +1,5 @@
 ---
-title: Web Softwareentwickler / Architekt (m/w)
+title: Web Softwareentwickler / Architekt - Java (m/w)
 layout: default
 header_image: meeting.jpg
 ---
@@ -21,7 +21,7 @@ Anforderungen
 -------------
 
 * Abgeschlossene technische Ausbildung (Uni, FH, HTL) oder entsprechende Berufserfahrung
-* Berufserfahrung mit objektorientierter Programmierung in mindestens einer statisch typisierten Sprache wie z.B. Java, Scala, C# oder  C++
+* Berufserfahrung mit objektorientierter Programmierung in mindestens einer statisch typisierten Sprache wie z.B. Java, Scala, C# oder C++
 * Datenbankdesign und -entwicklung (Postgresql, Oracle, Mysql, oä.)
 * Gutes Verständnis des Web-Stacks (Server, HTTP, HTML, CSS, Javascript)
 * Kenntnisse in HTML, CSS und Javascript
@@ -38,7 +38,7 @@ Ihre Chance
 Gehalt
 ------
 
-Das kollektivvertragliche Mindestgehalt für die offene Position liegt bei 2.696 € brutto pro Monat. Je nach Erfahrung und Qualifikation sind wir zu deutlicher Überzahlung bereit.
+Das kollektivvertragliche Mindestgehalt für die offene Position liegt laut IT-KV bei 2.696 € brutto pro Monat. Je nach Erfahrung und Qualifikation sind wir zu deutlicher Überzahlung bereit.
 
 Kontakt
 -------

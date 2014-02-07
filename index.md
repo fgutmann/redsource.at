@@ -24,24 +24,24 @@ Anforderungen
 * Datenbankdesign und -entwicklung (Postgresql, Oracle, Mysql, oä.)
 * Gutes Verständnis des Web-Stacks (Server, HTTP, HTML, CSS, Javascript)
 * Kenntnisse in HTML, CSS und Javascript
-* Erfahrungen mit Javascript MVC Frameworks (AngularJS, Ember.js, Backbone.js, etc.) sind von Vorteil
+* Erfahrungen mit dem Play! Framework sowie Javascript MVC Frameworks (AngularJS, Ember.js, Backbone.js, etc.) sind von Vorteil
 
 Ihre Chance
 -----------
 
-* Zielorientiertes Arbeiten in einem jungen, dynamischen, motiviertem Team
-* Langfristiges Engagement in einem Startup mit gesichertem finanziellen Umfeld
+* Zielorientiertes Arbeiten in einem jungen, dynamischen, hoch motivierten Team
+* Langfristiges Engagement in einem Startup mit durch Investoren gesichertem finanziellen Umfeld
 * Meistern einer umfassenden technischen Herausforderung, die viel Eigeninitiative und Selbständigkeit erfordert
 * Ausgezeichnete Aufstiegschancen gemeinsam mit dem Wachstum des Unternehmens
 
 Gehalt
 ------
 
-Das kollektivvertragliche Mindestgehalt für die offene Position liegt bei 2.696 € brutto pro Monat. Je nach Erfahrung und Qualifikation sind wir zu Überzahlung bereit.
+Das kollektivvertragliche Mindestgehalt für die offene Position liegt bei 2.696 € brutto pro Monat. Je nach Erfahrung und Qualifikation sind wir zu deutlicher Überzahlung bereit.
 
 Kontakt
 -------
 
-Senden sie Ihre aussagekräftige Bewerbung mit Lebenslauf an [f.gutmann@redsource.at](mailto:f.gutmann@redsource.at). Ansprechperson ist Florian Gutmann.
+Senden Sie Ihre aussagekräftige Bewerbung mit Lebenslauf an [f.gutmann@redsource.at](mailto:f.gutmann@redsource.at). Ihr Ansprechpartner ist Florian Gutmann.
 
-<p class="last-updated">Zuletzt aktualisiert am 4.2.2014</p>
+<p class="last-updated">Zuletzt aktualisiert am 7.2.2014</p>

@@ -1,6 +1,7 @@
 ---
 title: Web Softwareentwickler / Architekt (m/w)
 layout: default
+header_image: meeting.jpg
 ---
 
 Als junges, international-ausgerichtetes Startup suchen wir für unser Kern-Entwicklungsteam in Wien:

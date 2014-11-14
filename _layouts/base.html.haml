@@ -16,7 +16,7 @@
     .container{ :style=>'margin-top:10px' }
       - if page.header_image
         %img{ :style=>'max-width:100%; display:block; margin:0 auto', :src=>site.base_url + '/images/' + page.header_image }
-      %hr
+        %hr
       .row
         .col-md-8.col-md-offset-2.col-sm-12
           ~content

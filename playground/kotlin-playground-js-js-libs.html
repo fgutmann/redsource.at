@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://unpkg.com/kotlin-playground@1" data-selector="pre"></script>
+  </head>
+  <body>
+
+<pre data-target-platform="js">
+fun main() {
+    println("Hello World")
+}
+</pre>
+    
+<pre data-target-platform="js" data-js-libs="https://unpkg.com/moment@2.24.0/moment.js">
+external fun moment(): dynamic
+
+fun main() {
+    val startOfDay = moment().startOf("day").fromNow()
+    println("The start of the day was $startOfDay")
+}
+</pre>
+
+  </body>
+</html>
